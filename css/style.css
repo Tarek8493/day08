@@ -1,9 +1,15 @@
 h1{
-background-color: rgb(162, 174 135);
+background-color: rgb(162, 174, 135);
 }
 body{
-    background-color: rgb(5, 23, 74);
+    background-color : rgb(5, 23, 74);
 }
 p{
-    
+    background-color: rgb(178, 189, 215) ;
+}
+li{
+    background-color: rgb(209, 221, 240);
+}
+h2{
+    background-color: rgb(160, 161, 106);
 }
